@@ -10,7 +10,7 @@ class UserInterface:
     def menu(self):
         quit_program = False
         while not quit_program:
-            print("Chose number from menu:")
+            print("Choose number from menu:")
             print("1. Add new customer")
             print("2. Add new book")
             print("3. Show all customers")
